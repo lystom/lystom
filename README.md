@@ -1,7 +1,7 @@
 # Lisa TOMASETTO 
 
 - 🔭 I’m currently working on interactions between oceanography and seismology
-- 🌱 I’m currently learning HTML and CSS basics
+- 🌱 I’m currently learning Python Packaging and Markdeep
 - 👯 I’m looking to collaborate on Python packages for seismology and ambient noise in particular 
 - 🤔 I’m looking for help with Python Packaging
 - 💬 Ask me about secondary microseisms modelling, cross-correlation on global scale
