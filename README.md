@@ -1,13 +1,14 @@
 # Lisa TOMASETTO 
 
-- 🔭 I’m currently working on interactions between oceanography and seismology
+- 🔭 I’m currently working as a PhD on interactions between oceanography and seismology
+- :mag: I'm looking for a Post-doctoral position in seismology and/or oceanography  
 - 🌱 I’m currently learning Python Packaging and Markdeep
 - 👯 I’m looking to collaborate on Python packages for seismology and ambient noise in particular 
 - 🤔 I’m looking for help with Python Packaging
-- 💬 Ask me about secondary microseisms modelling, cross-correlation on global scale
+- 💬 Ask me about secondary microseism modeling, and cross-correlation on a global scale
 - 📫 How to reach me: lisa.tomasetto@gmail.com
 - 😄 Pronouns: (she/her)
-- ⚡ Fun fact: I practice juggling, siteswap rocks !
+- ⚡ Fun fact: I practice juggling, and siteswap rocks!
 <!--
 **lystom/lystom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
