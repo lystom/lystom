@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python Packaging and Markdeep
 - 👯 I’m looking to collaborate on Python packages for seismology and ambient noise in particular 
 - 🤔 I’m looking for help with Python Packaging
-- 💬 Ask me about secondary microseism modeling, and cross-correlation on a global scale
+- 💬 Ask me about secondary microseism modeling, and cross-correlation at the global scale
 - 📫 How to reach me: lisa.tomasetto@gmail.com
 - 😄 Pronouns: (she/her)
 - ⚡ Fun fact: I practice juggling, and siteswap rocks!
