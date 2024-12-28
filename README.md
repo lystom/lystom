@@ -3,9 +3,8 @@
 - 🔭 I’m currently working as a PhD on interactions between oceanography and seismology
 - :mag: I'm looking for a Post-doctoral position in seismology and/or oceanography  
 - 🌱 I’m currently learning Python Packaging and Markdeep
-- 👯 I’m looking to collaborate on Python packages for seismology and ambient noise in particular 
-- 🤔 I’m looking for help with Python Packaging
-- 💬 Ask me about secondary microseism modeling, and cross-correlation at the global scale
+- 👯 I’m looking for collaboration on Python packages for seismology and ambient noise in particular 
+- 💬 Ask me about secondary microseism modeling and cross-correlation at the global scale
 - 📫 How to reach me: lisa.tomasetto@gmail.com
 - 😄 Pronouns: (she/her)
 - ⚡ Fun fact: I practice juggling, and siteswap rocks!
