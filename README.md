@@ -1,9 +1,9 @@
 # Lisa TOMASETTO 
 
-- 🔭 I’m currently working as a PhD on interactions between oceanography and seismology
-- :mag: I'm looking for a Post-doctoral position in seismology and/or oceanography  
-- 🌱 I’m currently learning Python Packaging and Markdeep
-- 👯 I’m looking for collaboration on Python packages for seismology and ambient noise in particular 
+- 🔭 I earned my PhD in May 2025 on retrieving teleseismic body waves from oceanic storms (secondary microseisms).
+- :mag: I will start a post-doctoral position in January 2026 at LOPS in Brest, France. There, I will use SWOT data and seismic data to better constrain sea-state hindcasts such as WAVEWATCHIII.  
+- 🌱 I’m currently learning Python Packaging and Markdeep.
+- 👯 I’m looking for collaboration on Python packages for seismology and ambient noise in particular.
 - 💬 Ask me about secondary microseism modeling and cross-correlation at the global scale
 - 📫 How to reach me: lisa.tomasetto@gmail.com
 - 😄 Pronouns: (she/her)
